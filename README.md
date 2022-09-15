@@ -1,1 +1,1 @@
-# IITP102-Project
+# IITP102-Group Project
